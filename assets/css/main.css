@@ -47,6 +47,10 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
+	strong {
+	font-size: 20px;
+	}
 
 /* Box Model */
 
